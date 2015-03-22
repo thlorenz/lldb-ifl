@@ -20,6 +20,8 @@ rflags: 0x0000000000000246 ['PF', 'ZF', 'IF']
 
 Learn about what the abbreviations mean [on this Flags register page](http://en.wikipedia.org/wiki/FLAGS_register).
 
+How various flags [affect jump instructions](http://unixwiz.net/techtips/x86-jumps.html).
+
 ## Caveats
 
 Reserved flags (i.e. Bit# 1) are ignored in the abbreviated output.
